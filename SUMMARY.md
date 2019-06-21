@@ -2,8 +2,8 @@
 
 * [前言](README.md)
 * [第一章：平台介绍](Chapter1/README.md)
-    * [1.1：平台介绍](Chapter1/platform.md)
-    * [1.2：团队介绍](Chapter1/team.md)
+    * [1.1：平台](Chapter1/platform.md)
+    * [1.2：团队](Chapter1/team.md)
 * [第二章：使用手册](Chapter2/README.md)
     * [2.1: 登录](Chapter2/login.md)
     * [2.2: 看板](Chapter2/dashboard.md)
