@@ -16,7 +16,7 @@
     * [3.3: 搭建kubernetes](Chapter3/k8s.md)
     * [3.4: 处理restfulapi等应用](Chapter3/service.md)
     * [3.5: 第三方认证](Chapter3/auth.md)
-    * [3.6: gpu服务器挂载](Chapter3/gpu.md)
+    * [3.6: GPU服务器挂载](Chapter3/gpu.md)
 * [第四章：原理简介](Chapter4/README.md)
     * [4.1: 集群原理](Chapter4/knowledge.md)
 * [第五章：运维日常](Chapter5/README.md)
